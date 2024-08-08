@@ -24,7 +24,7 @@ body {
 
 .about_container{
   border: 2px solid grey;
-  padding: 2px;
+  padding: 4px 22px;
   margin: 4px;
   text-align: center;
   overflow-wrap: break-word;

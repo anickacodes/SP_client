@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="about_container">
       <div className="hero">
-        <h1>Background Story</h1>
+        <h1>Background</h1>
         <p className="subtitle">
           <i>Supportiveness</i> officially began as a conversation in an
           underground NYC parlour during a PrideFest volunteering event.{" "}
