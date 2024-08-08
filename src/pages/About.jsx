@@ -3,14 +3,6 @@ import "../App.css";
 const About = () => {
   return (
     <div className="about_container">
-      <p>
-        mental notes: how can folks benefit from Supportiveness? Be concise:
-        short and sweet, and start strong. Hook readers: make sure the first few
-        sentences are interesting enough to make readers want to keep reading.
-        Explain the topic: Let listeners know what the show is about and what
-        they can expect to hear
-      </p>
-
       <div className="hero">
         <h1>Background Story</h1>
         <p className="subtitle">
